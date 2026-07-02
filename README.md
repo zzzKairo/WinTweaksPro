@@ -14,3 +14,6 @@ All official WinTweaks Pro releases published in the **Releases** section of the
 ## Important Notice
 Users should only download WinTweaks Pro from the official GitHub repository releases page. 
 Any modified, reuploaded, or unofficial versions of WinTweaks Pro may contain changes or unsafe code and are not controlled by the developer.
+
+## Distribution Terms
+Usage and distribution of WinTweaks Pro are subject to the [Distribution Terms](https://github.com/zzzKairo/WinTweaksPro/blob/main/TERMS.md).
