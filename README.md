@@ -1,3 +1,4 @@
+# THERE IS CURRENTLY A BUG IN Kairo Tweaks.exe from releases please do not download until this is fixed in v1.1. (Tweaks dont revert properly)
 [Join our Discord](https://discord.gg/UuvV87K97g)
 # Kairo Tweaks 
 A multi-purpose Windows utility tool.
